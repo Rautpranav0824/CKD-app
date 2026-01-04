@@ -17,7 +17,7 @@ CKD management is 90% lifestyle. This app helps patients navigate the complex wo
 
 ## 🛠️ Tech Stack
 * **Framework:** Flutter (Dart)
-* **AI Engine:** Google Gemini Pro API
+* **AI Engine:** Google Gemini API
 * **State Management:** Provider
 * **Design:** Material 3 (Renal-friendly UI)
 
@@ -28,6 +28,7 @@ CKD management is 90% lifestyle. This app helps patients navigate the complex wo
 Since this repository currently contains the core logic (`main.dart`) and configuration (`pubspec.yaml`)
 App preview link :- https://z0198069a0199.zapp.page/ 
 Project (Zapp ) link :- https://zapp.run/edit/z0198069a0199
+tip :- its a application developed for mobile users , soo the UI is been integrated using mobile screen size , it may be different or not as per expectations on laptop / tab / monitor
 
 ---
 
