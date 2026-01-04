@@ -1,8 +1,4 @@
-# Flutter app in Zapp!
 
-A new Flutter project built with Zapp!
-
-----
 # 🩺 CKD Mitra - Your Renal Health Companion
 
 **CKD Mitra** is a specialized mobile assistant designed to empower patients with Chronic Kidney Disease (CKD) to manage their daily health and nutrition effectively.
