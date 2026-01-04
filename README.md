@@ -1,24 +1,23 @@
-# Project Name :-   CKD MITRA
+# Flutter app in Zapp!
 
-## Description
-A Flutter-based application built for [].
+A new Flutter project built with Zapp!
 
-## App Description 
-CKD Mitra is a specialized mobile companion designed to empower patients with Chronic Kidney Disease (CKD) to manage their health effectively. It acts as a bridge between the patient's daily life and their clinical requirements, focusing on the "three P's" of renal health: Phosphorus, Potassium, and Protein.
+----
 
-## Features
-- Clean UI built with Flutter
-- Smart Diet Tracking
-- Vitals & Health Logging
-- Gemini AI Health Assistant
+> To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
 
-## Tech Stack
-- Flutter
-- Dart
+----
 
-## Demo
-📱 APK: [link here]
-🎥 Video: [link here]
+## Getting Started
 
-## Note
-Due to system constraints, device-specific plugins may be mocked.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
